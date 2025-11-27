@@ -38,8 +38,7 @@ En este apartado se ilustran algunos de los diseños que he elaborado usando el 
 
 ### Diseño del Layout
 
-<img src="
-https://github.com/Sammy0829322/Dise-o-de-PCBs/blob/main/Captura%20de%20pantalla%202025-11-26%20193743.png?raw=true" width="900">
+<img src="https://github.com/Sammy0829322/Dise-o-de-PCBs/blob/main/Captura%20de%20pantalla%202025-11-26%20193743.png?raw=true" width="900">
 
 ### Diseño 3D de la placa final 
 <img src="https://github.com/Sammy0829322/Dise-o-de-PCBs/blob/main/Captura%20de%20pantalla%202025-11-03%20115315.png?raw=true" width="900">
