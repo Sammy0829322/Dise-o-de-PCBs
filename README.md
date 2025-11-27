@@ -15,8 +15,18 @@ En este apartado se ilustran algunos de los diseños que he elaborado usando el 
 ### Diseño de ESP32-S3.
 
 ### Diseño del esquematico
+<img src="https://github.com/Sammy0829322/Dise-o-de-PCBs/blob/main/Captura%20de%20pantalla%202025-11-26%20192021.png?raw=true
+" width="900">
+<img src="https://github.com/Sammy0829322/Dise-o-de-PCBs/blob/main/Captura%20de%20pantalla%202025-11-26%20192100.png?raw=true
+ " width="900">
 
 ### Diseño del Layout
-
+<img src="https://github.com/Sammy0829322/Dise-o-de-PCBs/blob/main/Captura%20de%20pantalla%202025-11-26%20192130.png?raw=true
+ " width="900">
 ### Diseño 3D de la placa final 
+<img src="https://github.com/Sammy0829322/Dise-o-de-PCBs/blob/main/Captura%20de%20pantalla%202025-11-26%20192216.png?raw=true
+ " width="900">
+ <img src="https://github.com/Sammy0829322/Dise-o-de-PCBs/blob/main/Captura%20de%20pantalla%202025-11-26%20192231.png?raw=true
+ " width="900">
+ 
 
