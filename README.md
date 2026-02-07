@@ -43,3 +43,9 @@ En este apartado se ilustran algunos de los diseños que he elaborado usando el 
 ### Diseño 3D de la placa final 
 <img src="https://github.com/Sammy0829322/Dise-o-de-PCBs/blob/main/Captura%20de%20pantalla%202025-11-03%20115315.png?raw=true" width="900">
 
+ ### Tarjeta de control de una caminadora con la ESP32-S3
+ 
+### Diseño del Layout
+
+<img src="https://github.com/Sammy0829322/Dise-o-de-PCBs/blob/main/Captura%20de%20pantalla%202025-11-26%20193637.png?raw=true" width="900">
+
